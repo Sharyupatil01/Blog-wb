@@ -1,4 +1,5 @@
-# 📖 Blog-wb
+
+ # Blog-wb 
 
 A simple blogging backend API built with **Node.js**, **Express.js**, and **MongoDB** using **Mongoose**.  
 It allows users to create posts, add comments, and like/unlike posts, demonstrating core CRUD operations and handling relationships between collections.
